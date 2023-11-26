@@ -1,0 +1,8 @@
+name: MineDisenchant
+main: mine.Systems.disenchant.Main
+version: 1.0
+commands:
+  인첸트초기화:
+    description: 인첸트초기화
+  disenchant:
+    description: 인첸트초기화
